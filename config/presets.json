@@ -56,7 +56,7 @@
   },
   "c_1770749459011": {
     "name": "仙侠插画",
-    "suffix": "masterpiece, best quality, ultra-detailed,\nthick paint texture, digital painting, illustration, anime style,\ntraditional Chinese aesthetic, xianxia fantasy, ethereal atmosphere,\nmisty mountains, floating clouds, ancient Chinese pagodas,\npeach blossom tree with pink blossoms, plum blossom bonsai,\nscroll with Chinese calligraphy, wooden railing,\nflying blue birds, dynamic composition, flowing elements,\nsoft and ethereal lighting, dreamy and hazy atmosphere,\nsoft focus background, pastel color palette, painterly rendering,\nimpasto technique, rich texture, detailed linework,\noriental landscape, serene and elegant mood,nsfw",
+    "suffix": "masterpiece, best quality, ultra-detailed,\nthick paint texture, digital painting, illustration, anime style,\ntraditional Chinese aesthetic, xianxia fantasy, ethereal atmosphere,\nmisty mountains, floating clouds, ancient Chinese pagodas,\npeach blossom tree with pink blossoms, plum blossom bonsai,\nscroll with Chinese calligraphy, wooden railing, dynamic composition,\nsoft and ethereal lighting, dreamy and hazy atmosphere,\nsoft focus background, pastel color palette, painterly rendering,\nimpasto technique, rich texture, detailed linework,\noriental landscape, serene and elegant mood,nsfw",
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, deformed, disfigured, extra limbs, missing limbs, ugly, fat, muscular,",
     "sampler": "k_euler_ancestral",
     "steps": 28,
