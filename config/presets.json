@@ -93,5 +93,35 @@
     "scale": 4,
     "smea": false,
     "variety": false
+  },
+  "c_1770835293041": {
+    "name": "10",
+    "suffix": "artist______随随, neutral background, white background, transparent background, cowboy shot, -1.5::nipples::",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, poorly drawn, bad face, distorted face",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 4,
+    "smea": false,
+    "variety": false
+  },
+  "c_1770835483050": {
+    "name": "11",
+    "suffix": "artist______涂弥, neutral background, white background, transparent background, cowboy shot, -1.5::nipples::",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, poorly drawn, bad face, distorted face",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 4,
+    "smea": false,
+    "variety": false
+  },
+  "c_1770835943316": {
+    "name": "12",
+    "suffix": "artist______gold can, neutral background, white background, transparent background, cowboy shot, -1.5::nipples::",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, poorly drawn, bad face, distorted face",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 4,
+    "smea": false,
+    "variety": false
   }
 }
