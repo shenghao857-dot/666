@@ -86,7 +86,7 @@
   },
   "c_1770831671548": {
     "name": "9",
-    "suffix": "artist______fujiwara,artist______merasgar, neutral background, white background, transparent background, cowboy shot, -1.5::nipples::",
+    "suffix": "artist______fujiwara, neutral background, white background, transparent background, cowboy shot, -1.5::nipples::",
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, poorly drawn, bad face, distorted face",
     "sampler": "k_euler_ancestral",
     "steps": 28,
